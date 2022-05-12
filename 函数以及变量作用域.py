@@ -52,7 +52,7 @@
     else:
     res=n*fac(n-1)
     return res
-    
+
 
 
 """
