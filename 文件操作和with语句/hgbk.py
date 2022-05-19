@@ -1,0 +1,2 @@
+#Encoding=gbk
+print('helow')
